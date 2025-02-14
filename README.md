@@ -12,4 +12,4 @@ This repository contains various files related to Database Types and query analy
 - **StreamlitOutput.pdf** – Streamlit output report for visualization which includes different graphs also. 
 - **neo4j_query_table_data_2025-2-13.json** – JSON files containing Neo4j query results.  
 - **visualisation (1).png** – Graph visualization from Neo4j database.  
-- **README.md** – This document providing an overview of the repository. 
+- **README.md** – Readme file for this github repository.
