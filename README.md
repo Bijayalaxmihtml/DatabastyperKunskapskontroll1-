@@ -9,7 +9,7 @@
  notebooks, Python scripts, JSON data exports, visualizations, and documentation related to the project,The output also is 
  visualized graphically using Streamlit framework.
 
-- **Databastyper 1.ipynb** – Jupyter Notebook containing database-related analysis. This Jupyter Notebook containing code 
+- **Databastyper.ipynb** – Jupyter Notebook containing database-related analysis. This Jupyter Notebook containing code 
  and data related to different database types, including Redis (Key-Value Database), MongoDB Atlas (Document Database), and 
  Neo4j Aura (Graph Database). It also includes JSON files and visualizations related to these databases. 
 - **app.py** – Python script for handling data processing and visualization. Python code for this project, which has been 
