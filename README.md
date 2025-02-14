@@ -17,6 +17,6 @@
   the output visually on Streamlit web page.  
 - **QR_CODE SCREENSHOT.pdf** – Screenshot related to QR code functionality.  
 - **StreamlitOutput.pdf** – Streamlit output report for visualization which includes different graphs also. 
-- **neo4j_query_table_data_2025-2-13.json** – JSON files containing Neo4j query results.  
+- **neo4j_query_table_data_2025-2-13.json** – JSON files containing Neo4j query results for the table_datas.  
 - **visualisation (1).png** – Graph visualization from Neo4j database.  
 - **README.md** – Readme file for this github repository.
